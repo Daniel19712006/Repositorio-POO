@@ -1,9 +1,0 @@
-<script>start("c:\\Users\\mauri\\Documents\\Practica\\EJERCICIOTALLER2\\");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("FastFood.java","FastFood.java",0,59,"59 B",1745270286,"4/21/25, 4:18:06 PM");</script>
-<script>addRow("Main.java","Main.java",0,55,"55 B",1745269840,"4/21/25, 4:10:40 PM");</script>
-<script>addRow("Menu.java","Menu.java",0,55,"55 B",1745270493,"4/21/25, 4:21:33 PM");</script>
-<script>addRow("Pizza.java","Pizza.java",0,56,"56 B",1745270939,"4/21/25, 4:28:59 PM");</script>
-<script>addRow("Receta.java","Receta.java",0,66,"66 B",1745270843,"4/21/25, 4:27:23 PM");</script>
-<script>addRow("Restaurante.java","Restaurante.java",0,62,"62 B",1745270552,"4/21/25, 4:22:32 PM");</script>
-<script>addRow("Sandwich.java","Sandwich.java",0,59,"59 B",1745271157,"4/21/25, 4:32:37 PM");</script>
